@@ -1,3 +1,0 @@
-[submodule "OpenXR"]
-	path = addons/
-	url = https://github.com/GodotVR/godot_openxr.git
